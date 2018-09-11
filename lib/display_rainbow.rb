@@ -5,6 +5,7 @@ def display_rainbow(colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indig
 end
 
 /*
+NOTICE: entire array is passed in as argument and defined within method
 ALT METHOD (works in terminal and same output but this doesn't follow lab bc doesn't use an argument)
 
 def display_rainbow
